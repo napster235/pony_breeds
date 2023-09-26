@@ -14,8 +14,6 @@ module PonyBreeds
     get_pony_by_key(key)
   end
 
-  private
-
   def self.read_ponies
     file_location = File.dirname(__FILE__)
     load_pony_breeds = File.join(file_location, 'pony_breeds.json')
