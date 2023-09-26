@@ -1,0 +1,14 @@
+{
+  "american_shetland_pony":
+    {
+      "name": "American Shetland Pony",
+      "description": "The American Shetland Pony is an American breed of pony. It derives from the traditional Shetland Pony from the Shetland Isles of Scotland, but as a result of cross-breeding with other horse and pony breeds, is taller and more elegant",
+      "wiki_url": "https://en.wikipedia.org/wiki/American_Shetland_Pony"
+    },
+  "american_walking_pony":
+    {
+      "name": "American Walking Pony",
+      "description": "The American Walking Pony is a modern American breed of gaited riding pony. It was created by crossbreeding of the Tennessee Walking Horse and the Welsh Pony.",
+      "wiki_url": "https://en.wikipedia.org/wiki/American_Walking_Pony"
+    }
+}
