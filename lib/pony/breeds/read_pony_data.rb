@@ -21,9 +21,9 @@ module Pony
       # @param name [String] the actual name of the pony
       #
       # @return [Hash] the hash containing the data for the pony
-      def get_pony_name(name)
+      def get_pony_by_name(name)
         key = name&.split&.join('_')&.downcase
-        get_pony_by_key(key)
+        get_pony_by_key(key.to_sym)
       end
 
       private
@@ -39,4 +39,3 @@ module Pony
     end
   end
 end
-1
