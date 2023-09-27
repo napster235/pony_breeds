@@ -13,5 +13,25 @@
     "name": "Andalou Pony",
     "description":"The Anadolu Pony is descended from crosses of Turkoman, Arabian, Persian, Karabakh, Akhal-Teke, Karbada, Deliboz, Mongolian and the ancient Anatolia horse. Some books refer to this small pony as the Native Turkish Pony, or Turk, but Professors Salahattin Batu and M. Nurettin Aral made a distinction in types between the horses in Anatolia as Anadolu and East and Southeast Anadolu.",
     "wiki_url": "https://en.wikipedia.org/wiki/Anadolu_Pony"
+  },
+  "australian_pony": {
+    "name": "Australian Pony",
+    "description":"Since the continent had no native horses or ponies prior to the arrival of European explorers and settlers, all equidae that now live there are from imported stock. Nine horses first arrived in Australia in 1788 in the First Fleet from South Africa. In 1803, the first Timor Ponies arrived from Indonesia, and provided the foundation stock for the breed.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Australian_Pony"
+  },
+  "australian_riding_pony": {
+    "name": "Australian Riding Pony",
+    "description": "These ponies are small copies of elegant show hacks, developed from English Riding Pony bloodlines. They range in height from 12.2 to 14.2 hands (50 to 58 inches, 127 to 147 cm) in contrast to the Australian Pony breed, which does not exceed 14 hands (56 inches, 142 cm).",
+    "wiki_url": "https://en.wikipedia.org/wiki/Australian_Riding_Pony"
+  },
+  "bali_pony": {
+    "name": "Bali Pony",
+    "description": "The Bali ponies are quite hardy and self-sufficient, surviving with little outside care. They are tough animals that are not shod and are remarkably sound, with hard feet, and strong legs. The ponies show the usual \"primitive markings\" such as a dorsal stripe, shoulder bars, and zebra stripes on the legs, in addition to their dun coat, that includes a black mane, tail, and legs.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bali Pony"
+  },
+  "basuto_pony": {
+    "name": "Basuto pony",
+    "description": "The Basuto is considered a small horse, since it possesses horse-like characteristics, such as an exceptionally long stride. Basutos have rather heavy heads, long necks and long, straight backs, straight shoulders, and muscular, sloping croups. They have very tough legs and sound, very hard hooves. They can be up to 14.2 hands high (56.8 inches or ~142 cm), but rarely taller.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Basuto_pony"
   }
 }
