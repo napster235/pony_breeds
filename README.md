@@ -14,7 +14,11 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+Get the pony data by the symbolized JSON key
+    `Pony::Breeds::ReadPonyData.new.get_pony_by_key(:symbolized_key_from_json)`
+    
+Get the pony data by the actual name of the pony
+    `Pony::Breeds::ReadPonyData.new.get_pony_by_name('Actual Pony Name')`
 
 ## Development
 
