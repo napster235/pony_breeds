@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'pony_breeds'
+require 'breeds'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

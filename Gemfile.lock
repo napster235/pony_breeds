@@ -158,6 +158,14 @@ GEM
     rspec-mocks (3.12.6)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.12.0)
+    rspec-rails (6.0.3)
+      actionpack (>= 6.1)
+      activesupport (>= 6.1)
+      railties (>= 6.1)
+      rspec-core (~> 3.12)
+      rspec-expectations (~> 3.12)
+      rspec-mocks (~> 3.12)
+      rspec-support (~> 3.12)
     rspec-support (3.12.1)
     rubocop (1.56.3)
       base64 (~> 0.1.1)
@@ -199,6 +207,7 @@ DEPENDENCIES
   pony_breeds!
   rake (~> 13.0)
   rspec (~> 3.0)
+  rspec-rails (~> 6.0)
   rubocop (~> 1.21)
 
 BUNDLED WITH

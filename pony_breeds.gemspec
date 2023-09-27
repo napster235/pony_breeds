@@ -1,15 +1,15 @@
 # frozen_string_literal: true
 
-require_relative 'lib/pony_breeds/version'
+require_relative 'lib/pony/breeds/version'
 
 Gem::Specification.new do |spec|
   spec.name = 'pony_breeds'
-  spec.version = PonyBreeds::VERSION
-  spec.authors = ['Dragomir, Tudor']
+  spec.version = Pony::Breeds::VERSION
+  spec.authors = ['napster235']
   spec.email = ['dragomir.tuddor@gmail.com']
 
-  spec.summary = 'Write a short summary, because RubyGems requires one.'
-  spec.description = 'Write a longer description or delete this line.'
+  spec.summary = 'A small little gem that offers the capability of reading pony breeds.'
+  spec.description = 'A small little gem that offers the capability of reading pony breeds.'
   spec.homepage = 'https://github.com/napster235/pony_breeds'
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 2.6.0'

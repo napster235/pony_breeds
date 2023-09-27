@@ -1,0 +1,17 @@
+{
+  "american_shetland_pony": {
+    "name": "American Shetland Pony",
+    "description": "The American Shetland Pony is an American breed of pony. It derives from the traditional Shetland Pony from the Shetland Isles of Scotland, but as a result of cross-breeding with other horse and pony breeds, is taller and more elegant",
+    "wiki_url": "https://en.wikipedia.org/wiki/American_Shetland_Pony"
+  },
+  "american_walking_pony": {
+    "name": "American Walking Pony",
+    "description": "The American Walking Pony is a modern American breed of gaited riding pony. It was created by crossbreeding of the Tennessee Walking Horse and the Welsh Pony.",
+    "wiki_url": "https://en.wikipedia.org/wiki/American_Walking_Pony"
+  },
+  "andalou_pony": {
+    "name": "Andalou Pony",
+    "description":"The Anadolu Pony is descended from crosses of Turkoman, Arabian, Persian, Karabakh, Akhal-Teke, Karbada, Deliboz, Mongolian and the ancient Anatolia horse. Some books refer to this small pony as the Native Turkish Pony, or Turk, but Professors Salahattin Batu and M. Nurettin Aral made a distinction in types between the horses in Anatolia as Anadolu and East and Southeast Anadolu.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Anadolu_Pony"
+  }
+}

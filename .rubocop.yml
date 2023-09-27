@@ -1,13 +1,28 @@
 AllCops:
   TargetRubyVersion: 2.6
 
-Style/StringLiterals:
-  Enabled: true
-  EnforcedStyle: single_quotes
+# ------------------------------------------------------- Layout -------------------------------------------------------
+
+Layout/EmptyLinesAroundBlockBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundClassBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundModuleBody:
+  Enabled: false
+
+Layout/MultilineAssignmentLayout:
+  Enabled: false
+
+Layout/LineLength:
+  Max: 120
+
+# ------------------------------------------------------- Style --------------------------------------------------------
+
+Style/ClassAndModuleChildren:
+  Enabled: false
 
 Style/StringLiteralsInInterpolation:
   Enabled: true
   EnforcedStyle: double_quotes
-
-Layout/LineLength:
-  Max: 120
