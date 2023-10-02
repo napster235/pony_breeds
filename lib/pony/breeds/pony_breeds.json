@@ -33,5 +33,50 @@
     "name": "Basuto pony",
     "description": "The Basuto is considered a small horse, since it possesses horse-like characteristics, such as an exceptionally long stride. Basutos have rather heavy heads, long necks and long, straight backs, straight shoulders, and muscular, sloping croups. They have very tough legs and sound, very hard hooves. They can be up to 14.2 hands high (56.8 inches or ~142 cm), but rarely taller.",
     "wiki_url": "https://en.wikipedia.org/wiki/Basuto_pony"
+  },
+  "batak_pony": {
+    "name": "Batak pony",
+    "description": "The ponies are slender, but still strong and sturdy. In general, they are well-conformed, and most of their faults are partly to blame on the poor forage to which they have access. The only other breed of the country which is of better quality is the Sandalwood Pony.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Batak_pony"
+  },
+  "bhirum_pony": {
+    "name": "Bhirum Pony",
+    "description": "The Bhirum Pony or Nigerian Pony is a Nigerian breed of pony or small horse. It developed in Nigeria’s northern regions.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bhirum_Pony"
+  },
+  "bosnian_mountain_horse": {
+    "name": "Bosnian Mountain Horse",
+    "description": "Selective breeding of the Bosnian Mountain Horse began at the stud of Goražde in 1908. The principal centres for the selection of the breed were the stud farms of Borike, in the municipality of Rogatica, and Han Pijesak. Three stallion lines – Agan, Barut and Miško – and nine mare lines were established; the Agan line is lost, and the Barut and Miško lines heavily mixed. Arab stallions at the Borike stud were used to improve the Bosnian Mountain Horse.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bosnian_Mountain_Horse"
+  },
+  "british_spotted_pony": {
+    "name": "British Spotted Pony",
+    "description": "The presence of spotted horses across Europe from Iberia to Turkey is documented in manuscripts and tapestries as far back as the Middle Ages. Among the many European breeds that can have a spotted coat is a strain of the Welsh Pony. A document from 1298 mentions that Edward I of England had a spotted Welsh horse.",
+    "wiki_url": "https://en.wikipedia.org/wiki/British_Spotted_Pony"
+  },
+  "burmese_pony": {
+    "name": "Shan Horse",
+    "description": "The Shan Horse or Shan Myinn is a breed of small mountain horse or pony from the Shan Highland, in Shan State in eastern Myanmar (Burma). It was traditionally bred by the Shan people of that area. It is one of two horse breeds in Myanmar, the other being the Burmese Horse.[5] It is similar to the Indian Manipuri, Spiti and Bhutia breeds of small horse or pony.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shan_Horse"
+  },
+  "camargue_horse": {
+    "name": "Camargue horse",
+    "description": "The Camargue horse is an ancient breed of horse indigenous to the Camargue area in southern France. Its origins remain relatively unknown, although it is generally considered one of the oldest breeds of horses in the world. For centuries, possibly thousands of years, these small horses have lived wild in the harsh environment of the Camargue marshes and wetlands of the Rhône delta.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Camargue_horse"
+  },
+  "canadian_rustic_pony": {
+    "name": "Canadian Rustic Pony",
+    "description": "The Canadian Rustic Pony was developed by Dr. Peter Neufeld of Manitoba, Canada.[1] Breeders developed the breed by crossing Heck horses from the Atlanta Zoo in Atlanta, Georgia with Arabian horse-Welsh pony crosses. On January 23, 1989, the Canadian Rustic Pony Association was formed, incorporated under the new Canadian federal Animal Pedigree Act, also known as Bill C-67.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Canadian_Rustic_Pony"
+  },
+  "caspian_horse": {
+    "name": "Caspian horse",
+    "description": "The Caspian is said to originate from the mountainous regions of northern Iran, which explains how the breed is tough, athletic, and nimble. Indeed, the oldest known specimen of a Caspian-like horse was found in 2011, in a cemetery dating back to 3400 B.C.E., in the archaeological dig at Gohar Tappeh in the province of Mazandaran in northern Iran, between the cities of Neka and Behshahr. Small horses were depicted in ancient art where they appeared in scenes pulling chariots.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Caspian_horse"
+  },
+  "chincoteague_Pony": {
+    "name": "Chincoteague Pony",
+    "description": "The Chincoteague pony, also known as the Assateague horse, is a breed of horse that developed, and now lives, within a semi-feral or feral population on Assateague Island in the US states of Virginia and Maryland. The Chincoteague pony is one of the many breeds of feral horses in the United States. The breed was made famous by the Misty of Chincoteague novels, written by pony book author Marguerite Henry, and first published in 1947, and the pony Misty of Chincoteague.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Chincoteague_Pony"
   }
 }
