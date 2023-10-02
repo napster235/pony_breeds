@@ -26,6 +26,16 @@ module Pony
         get_pony_by_key(key.to_sym)
       end
 
+      # Get data related to a pony by a random JSON key
+      #
+      # @return [Hash] the hash containing the data for the pony
+      def retrieve_random_pony
+        arr = []
+
+        read_ponies.each_key { |pony_name| arr << pony_name }
+        get_pony_by_key(arr.sample)
+      end
+
       private
 
       # Read and parse the JSON file
