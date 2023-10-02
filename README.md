@@ -20,6 +20,9 @@ Get the pony data by the symbolized JSON key
 Get the pony data by the actual name of the pony
     `Pony::Breeds::ReadPonyData.new.get_pony_by_name('Actual Pony Name')`
 
+Get a random pony data
+    `Pony::Breeds::ReadPonyData.new.retrieve_random_pony`
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
