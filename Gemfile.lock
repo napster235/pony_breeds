@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pony_breeds (0.1.2)
+    pony_breeds (0.1.3)
       faraday (~> 2.7)
       rails (>= 5.2)
       webmock
