@@ -56,7 +56,7 @@
   },
   "burmese_pony": {
     "name": "Shan Horse",
-    "description": "The Shan Horse or Shan Myinn is a breed of small mountain horse or pony from the Shan Highland, in Shan State in eastern Myanmar (Burma). It was traditionally bred by the Shan people of that area. It is one of two horse breeds in Myanmar, the other being the Burmese Horse.[5] It is similar to the Indian Manipuri, Spiti and Bhutia breeds of small horse or pony.",
+    "description": "The Shan Horse or Shan Myinn is a breed of small mountain horse or pony from the Shan Highland, in Shan State in eastern Myanmar (Burma). It was traditionally bred by the Shan people of that area. It is one of two horse breeds in Myanmar, the other being the Burmese Horse. It is similar to the Indian Manipuri, Spiti and Bhutia breeds of small horse or pony.",
     "wiki_url": "https://en.wikipedia.org/wiki/Shan_Horse"
   },
   "camargue_horse": {
@@ -66,7 +66,7 @@
   },
   "canadian_rustic_pony": {
     "name": "Canadian Rustic Pony",
-    "description": "The Canadian Rustic Pony was developed by Dr. Peter Neufeld of Manitoba, Canada.[1] Breeders developed the breed by crossing Heck horses from the Atlanta Zoo in Atlanta, Georgia with Arabian horse-Welsh pony crosses. On January 23, 1989, the Canadian Rustic Pony Association was formed, incorporated under the new Canadian federal Animal Pedigree Act, also known as Bill C-67.",
+    "description": "The Canadian Rustic Pony was developed by Dr. Peter Neufeld of Manitoba, Canada. Breeders developed the breed by crossing Heck horses from the Atlanta Zoo in Atlanta, Georgia with Arabian horse-Welsh pony crosses. On January 23, 1989, the Canadian Rustic Pony Association was formed, incorporated under the new Canadian federal Animal Pedigree Act, also known as Bill C-67.",
     "wiki_url": "https://en.wikipedia.org/wiki/Canadian_Rustic_Pony"
   },
   "caspian_horse": {
@@ -196,7 +196,7 @@
   },
   "baise_horse": {
     "name": "Baise horse",
-    "description": "The Baise horse (also known as the Guangxi) is a pony-sized horse breed native to the autonomous region of Guangxi, in southeastern China.[1] Like other Asian breeds (the Mongolian horse in particular), it thrives at high altitudes and roams freely when not working. Guangxi's mild climate has long favored horse breeding; bronze statues from the third to the first centuries BCE exist of horses very similar in conformation to the Baise.",
+    "description": "The Baise horse (also known as the Guangxi) is a pony-sized horse breed native to the autonomous region of Guangxi, in southeastern China. Like other Asian breeds (the Mongolian horse in particular), it thrives at high altitudes and roams freely when not working. Guangxi's mild climate has long favored horse breeding; bronze statues from the third to the first centuries BCE exist of horses very similar in conformation to the Baise.",
     "wiki_url": "https://en.wikipedia.org/wiki/Baise_horse"
   },
   "hackney_pony": {
@@ -243,5 +243,141 @@
     "name": "Kerry_Bog_Pony",
     "description": "The Kerry Bog Pony is a mountain and moorland breed of pony that originated in Ireland. Possibly descended from the Irish Hobby horse, it originally lived a mainly feral existence in the peat bogs of what is now County Kerry in southwestern Ireland. Local inhabitants used the ponies as pack and cart horses for transporting peat and kelp to the villages. The breed developed physical characteristics including a low weight-to-height ratio and an unusual footfall pattern, which helped it move on soft ground such as peat bogs. The ponies were known for hardiness and an ability to survive in harsh conditions.",
     "wiki_url": "https://en.wikipedia.org/wiki/Kerry_Bog_Pony"
+  },
+  "lac_la_croix_indian_pony": {
+    "name": "Lac La Croix Indian Pony",
+    "description": "The Lac La Croix pony is a small riding horse standing 122 to 147 centimetres (12.0 to 14.2 hands; 48 to 58 in) high. The breed is seen in any solid color except white and cream dilutions. Black and bay are common, as are dun shades with primitive markings. They are hardy, with smooth-flowing gaits, and a reputation for being gentle and intelligent. It is considered the only breed matured by indigenous people in Canada. The breed has a broad forehead tapering to a refined muzzle. They have cold weather adaptations including small, well-haired ears and nostril flaps able to tighten in bad weather. They have low withers, a short, straight back, sloping croup and a low-set tail. Their cannon bones are heavy and strong. Their mane and tail is thick.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lac_La_Croix_Indian_Pony"
+  },
+  "landais_pony": {
+    "name": "Landais pony",
+    "description": "Traditionally, two distinct types of pony or small horse lived in a feral or semi-feral state in the Landes de Gascogne region of south-western France: the Lédon or Poney des Pins in the sandy coastal areas of the Gironde and the Haute-Lande [fr]; and the Barthais in the Barthes de l'Adour [fr], the marshy meadowlands of the valley of the Adour river. The plantation of the Landes forest and associated swamp drainage operations in the nineteenth century reduced the natural range of these horses. In 1913 the two populations totalled some 2000. The advent of motorised transport led to a decline in the number of animals, both because their usefulness was reduced and because some were the cause of road accidents; during the Second World War, some fell victim to land-mines laid by German forces to prevent coastal landings. After the War, no more than 150 head remained. The Poney des Pins became extinct in about 1950.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Landais_pony"
+  },
+  "lijiang_pony": {
+    "name": "Lijiang pony",
+    "description": "Lijiang ponies are a newly developed breed of horse, restricted to the Lijiang District, in China. This is an area of high altitude with a greatly varied climate. The economy required a more powerful pony than was found in the area, so in 1944 the Arabian, Yili, Hequ, Kabarda and small type Ardennes were introduced. Crossbreeding and interbreeding of the progeny has developed a horse ideal for the needs of the area. Today, there are approximately 4,000 Lijiang ponies. Lijiang ponies were crossed with Arab and Arab-Kabarda and the offspring were increased in size to about 12.2 hands, but additional work to increase the size of this breed has not yet been successful.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lijiang_pony"
+  },
+  "lundy_pony": {
+    "name": "Lundy pony",
+    "description": "In 1928 Martin Coles Harman, who was the owner of Lundy Island, shipped a small herd of ponies to the island, where they lived and bred under semi-feral conditions; most were of New Forest stock. Stallions of the Welsh and Connemara breeds were later added to the herd, as were some further New Forest stallions. In 1972, following a visit to the island by the chairman of the National Pony Society, a process of breed recognition was begun. A brand was registered with the society and a Foundation Stock Register was started. There were at that time twenty-seven horses on the island – a stallion, eighteen mares and eight foals; the majority displayed characteristics typical of the Connemara.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lundy_Pony"
+  },
+  "manipuri_pony": {
+    "name": "Manipuri pony",
+    "description": "The Manipuri Pony (Meitei: Meitei Sagol; literally, \"Meitei horse\" or \"Meitei pony\") is a traditional Indian breed of small horse or pony from Assam and Manipur in north-eastern India. It appears both in the history and the mythology of Manipur, and was used for warfare and polo. It is believed to have been the polo pony in use in Assam in the mid-nineteenth century when British tea planters first saw polo being played, and the height limits set for polo ponies were based on ponies of this breed. It was very numerous in the early twentieth century, but numbers have since fallen. A breed society was established in 1977, and a breed standard was drawn up by the Indigenous Horse Society of India in 2009.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Manipuri_Pony"
+  },
+  "merens_horse": {
+    "name": "Merens horse",
+    "description": "The Mérens, Cheval de Mérens or Caballo de Merens (French pronunciation: [meʁɛ̃s]), still occasionally referred to by the older name of Ariégeois pony, is a small, rustic horse native to the Pyrenees and Ariégeois mountains of southern France, where the river Ariège flows, and northern Spain, near Andorra. Two general types, a small, light traditional mountain horse and a taller, sportier modern type, are found. Always black in color, Mérens must meet strict physical standards in order to be registered in the stud book. The breed is known for its sure-footedness on mountain terrain, as well as for its endurance, hardiness and docility. The French breed registry organizes regional offices, and partners with other national organizations in Europe to preserve and promote the breed.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mérens_horse"
+  },
+  "miyako_horse": {
+    "name": "Miyako horse",
+    "description": "The Miyako (宮古馬, Miyako uma) is a rare breed of horse originating from Miyako Island, in Japan. The Miyako is one of eight breeds considered native to Japan. Miyako Island in Okinawa Prefecture has been known as a horse breeding area for centuries, and small horses have always been found in this area. During and after World War II they were crossed with larger stallions to increase their size to around 14 hands for farming purposes. They are mostly used as riding horses and for light draft work.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Miyako_horse"
+  },
+  "namaqua_pony": {
+    "name": "Namaqua pony",
+    "description": "The Namaqua Pony is an extinct breed of horse from South Africa. It was similar to the Basuto pony and originated from the Cape Horse.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Namaqua_Pony"
+  },
+  "narym_pony": {
+    "name": "Narym pony",
+    "description": "The Narym Pony is similar to the Ob pony breed and originated near the same area in the central of the region near the Ob River of Western Siberia. The two breeds live under much the same ecological and economical conditions, and may be considered two groups or types of the same breed of northern forest horse. It stands between 13 and 14 hands high. The Narym Pony is larger than the Ob pony and is crossed with draft horses and trotters in the southern part of the breeding area. In the north, it is bred pure.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Narym_Pony"
+  },
+  "new_forest_pony": {
+    "name": "New forest pony",
+    "description": "The New Forest pony is one of the recognised mountain and moorland or native pony breeds of the British Isles. Height varies from around 12 to 14.2 hands (48 to 58 inches, 122 to 147 cm); ponies of all heights should be strong, workmanlike, and of a good riding type. They are valued for hardiness, strength, and sure-footedness. The breed is indigenous to the New Forest in Hampshire in southern England, where equines have lived since before the last Ice Age; remains dating back to 500,000 BC have been found within 50 miles (80 km) of the heart of the modern New Forest.",
+    "wiki_url": "https://en.wikipedia.org/wiki/New_Forest_pony"
+  },
+  "newfoundland_pony": {
+    "name": "Newfoundland pony",
+    "description": "The Newfoundland pony is a breed of pony originating in Newfoundland, Canada. They are sturdy and muscular ponies, found in many colors, including the relatively rare white coloration. The Newfoundland developed from a mix of English, Irish and Scottish pony breeds brought to Newfoundland by settlers over a period of four centuries. Initially free-roaming, they crossbred to produce the modern type. They were used by settlers as draft and multi-purpose ponies until the mid-20th century, when they were brought almost to the point of extinction by mechanization and slaughter. The population rebounded slightly after the formation of a breed registry in 1980, but still remains low.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Newfoundland_pony"
+  },
+  "peneia_pony": {
+    "name": "Peneia pony",
+    "description": "Peneias generally stand between 10.1 and 14 hands high, and are usually bay, black, chestnut, or gray, although other colors are seen. They have a well-proportioned head with a convex profile and a well-set neck running into low withers, a wide chest, and muscular, sloping shoulders. They have a short back, sloping croup, and long legs with small, tough hooves. It is a fairly hardy and sure-footed breed, well adapted mountainous terrain. The natural gait of the Peneia breed is fairly stilted, so they are usually taught a smoother gait called the aravani (Greek: αραβάνι) which makes riding more comfortable.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Peneia_Pony"
+  },
+  "petiso_argentino": {
+    "name": "Petiso argentino",
+    "description": "The Petiso Argentino is a new pony breed developed from Shetland ponies and Welsh ponies imported by Argentine farmers in the first half of the 20th century. There is undoubtedly also a bit of Criollo blood in this pony, judging by the colour and conformation of the breed. As time passed, the Shetland and Welsh breeds were no longer distinguishable and the new breed, Petiso Argentino, was created.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Petiso_Argentino"
+  },
+  "pindos_pony": {
+    "name": "Pindos pony",
+    "description": "The Pindos (Greek: αλογάκι της Πίνδου) is breed of pony or small horse native to the Pindus mountain range in Thessaly and Epirus in Greece. It is also present in mountainous parts of Thrace and Macedonia. There is a feral herd near Neochori, Karditsa, close to Lake Plastiras. The Pindos is hardy and frugal, with good stamina, and is used for riding, driving, and as a pack and draught animal for forestry and farming. The hooves are boxy and narrow but strong, so shoeing is not often needed. It is smaller and shorter than the Thessalian, with an average height at the withers of about 132 cm. In 2002 the recorded population consisted of 464 breeding mares and 81 stallions.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pindos_Pony"
+  },
+  "poney_du_logone": {
+    "name": "Poney du Logone",
+    "description": "There are many descriptions of the small horses of the Marba-Musey people of the flood-plain of the middle reaches of the Logone River in south-western Chad and northern Cameroon; among them are those of Dixon Denham in 1826 and Gustav Nachtigal in 1880. Horse-breeding in the area remained relatively unchanged until the 1980s; in 1985 the horse population there was estimated at 6000–6500 head. In 2007 the Poney du Logone population in Chad was listed as \"not at risk\" by the FAO. In Cameroon the breed is considered a relic of the past, and to be at risk of extinction.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Poney_du_Logone"
+  },
+  "pony_of_the_americas": {
+    "name": "Pony of the Americas",
+    "description": "The Pony of the Americas is a pony breed developed in the state of Iowa in the United States. The foundation stallion was an Arabian/Appaloosa/Shetland pony cross. A breed registry was founded in 1954, and within 15 years had registered 12,500 ponies. Today, the Pony of the Americas Club is one of the largest and most active youth-oriented horse breed registries in the US. Although called ponies, POAs have the phenotype of a small horse, combining mainly Arabian and American Quarter Horse attributes. The registry is open, allowing blood from many other breeds, but has strict criteria for entry, including Appaloosa coloration, specified height and other physical characteristics. Although mainly bred for Western riding, the breed has been used for many other disciplines, including driving, endurance riding and some English disciplines.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pony_of_the_Americas"
+  },
+  "quarter_pony": {
+    "name": "Quarter pony",
+    "description": "The Quarter Pony is a breed of pony that is similar to the American Quarter Horse. It stands up to 14.2 hands (58 inches, 147 cm) high and was developed from American Quarter Horse foundation bloodstock. The breed was originally developed from Quarter Horses that did not meet the American Quarter Horse Association's height requirement. It is bred to look like a small Quarter Horse, although the various registries also allow crosses with other breeds, including Paint horse, Appaloosa and Pony of the Americas, all stock types. It is one of the most versatile horse breeds there are. There are three registries for the Quarter Pony, all with slightly different registration requirements. The first registry was begun in 1964, and two more were started in the 1970s. The breed is used today in a variety of Western and English riding disciplines.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Quarter_Pony"
+  },
+  "sable_island_horse": {
+    "name": "Sable Island horse",
+    "description": "The Sable Island horse is a small feral horse found on Sable Island, off the coast of Nova Scotia, Canada. It has a horse phenotype and horse ancestors, and is usually dark in colour. The first horses were released on the island in the late 1700s, and soon became feral. Additional horses were later transported to improve the herd's breeding stock. They were rounded up for private use and sale for slaughter, which by the 1950s had placed them in danger of extinction. During the 2018 study, the estimated population was 500 horses, up from the roughly 300 recorded in the 1970s. In 1960, the Canadian government protected the horses by law in their feral state. From the 1980s on, long-term, noninvasive herd studies have been performed, and in 2007 a genetic analysis was conducted that concluded the herd was genetically distinct enough to interest conservationists. In 2008, the horses were declared the official horse of Nova Scotia, and in 2011, the island was declared the Sable Island National Park Reserve. The herd is unmanaged, and legally protected from interference by humans. The horses live only at Sable Island and, until 2019, at the Shubenacadie Wildlife Park on the mainland of Nova Scotia, with the latter herd descended from horses removed from Sable Island in the 1950s.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sable_Island_horse"
+  },
+  "sandalwood_pony": {
+    "name": "Sandalwood pony",
+    "description": "The Sandalwood Pony is a breed of small horse originating from Indonesia, on the Sumba and Sumbawa Islands. It is named after the Sandalwood trees, which are a major export of the country. The Sandalwood pony is one of the finest in the country, partly due to the great amount of Arabian blood. They make suitable children's ponies, and have been exported to Australia for this purpose. They have also been exported to other Southeast Asian countries for use as racing ponies. The Sandalwood is used for light draft, pack, farm, and riding work. They are especially popular in horse racing, both on the flat and in harness. They are also used in the bareback races held on the islands, which are often over three miles (4.8 km) long.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sandalwood_Pony"
+  },
+  "shetland_pony": {
+    "name": "Shetland pony",
+    "description": "Shetland ponies originated in the Shetland Isles, located northeast of mainland Scotland. Small horses have been kept in the Shetland Isles since the Bronze Age. People who lived on the islands probably later crossed the native stock with ponies imported by Norse settlers. Shetland ponies also were probably influenced by the Celtic pony, brought to the islands by settlers between 2000 and 1000 BCE. The harsh climate and scarce food developed the ponies into extremely hardy animals. Shetland ponies were first used for pulling carts and for carrying peat, coal and other items,[citation needed] and ploughing land.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shetland_pony"
+  },
+  "skyros_pony": {
+    "name": "Skyros pony",
+    "description": "The Skyros breed generally stands between 9.1 and 11 hands (92 to 115 cm) high, and may be, bay, dun, brown or black. The small-bodied species of the Skyrian horse is one of the rarest horse breeds in the world. It is native to Greece, and in ancient times lived throughout the country, but now is only found in the wild in Skyros and in breeding and welfare farms on the island of Skyros. At the time of writing [2009] there are 220 Skyrian horses in Greece, of which 152 live in Skyros. The Skyrian horse is a protected species. The Skyrian horses are friendly, social, robust and intelligent animals. The head is very handsome. The mane is long and thick and usually a hue darker than the skin colour. Their legs are slim, strong and wiry, with strong joints. The tail is low set. The hooves are small, compact and strong, usually black, and do not need shoeing. It is preferred by the breed standard to have very limited white markings eg a small star is acceptable.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Skyros_Pony"
+  },
+  "sumbawa_pony": {
+    "name": "Sumbawa pony",
+    "description": "Very little is known about history of the horse in Southeast Asia, because few studies have been published, and many of those have a European bias. The first serious studies came with Peter Boomgaard in 2004. Horse trading in Sumbawa flourished throughout History, with tough competition between breeders from Sumba, which export the Sandalwood Pony, and those of Sumbawa. There is also competition from breeders from Timor and Savu. It is likely that Sumbawa horse was introduced to the island by the Javanese people of Majapahit Empire, who conquered the island in the 14th century. The sultans of Bima and West Sumbawa are deemed to possess numerous horses. This breed and the Sumba are supposed to be close from the Mongolian Horse. Although Arabic origin is often cited in ancient documents (including the Dutch ones), there is no evidence of this in Indonesian horses and Sumbawa ponies.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sumbawa_Pony"
+  },
+  "tibetan_pony": {
+    "name": "Tibetan pony",
+    "description": "It is generally believed that most Tibetan ponies descended from ancient stock, likely partly from the Mongolian Pony and Chinese breeds. However, some breeds, such as the Nangchen horse have apparently have been bred pure for centuries. Another type, the Riwoche horse, has been hypothesized to have been developed in isolation to a degree that some claim it is an evolutionary link between the prehistoric wild horse and the modern domestic horse, though it could also be a domesticated variety that reverted to primitive coloring. Horses in general are well regarded by the local people, and they have been traditionally kept by both wealthy Tibetans and farmers alike, as well as by the Dalai Lama and other religious figures. The ponies were sent as gifts to Chinese Emperors, especially during the Ming and Tang dynasties. Horses also were commonly traded for tea from the southern parts of Sichuan province, China even as late as the 1950s. The trade was prolific to the extent that the route between Lhasa and Sichuan came to be known as the Tea-Horse Road.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tibetan_pony"
+  },
+  "timor_pony": {
+    "name": "Timor pony",
+    "description": "The Timor Pony was developed on Timor Island, likely from Indian breeds of horses and ponies that were imported to the island. The Timor Pony is thought to be closely related to the Flores Pony, which was developed on nearby Flores Island. Both breeds are used by the local people for cattle work, as well as riding, driving, and light farm work. Many of these ponies have been exported to Australia, where they have had an influence on the breeding of the Australian Pony. Timor Ponies are strong, frugal, and agile, and have a quiet and willing temperament. The ponies have a narrow frame, short back, muscular neck, prominent withers, and a sloping croup. The shoulders tend to be straight, but the legs and feet are strong. The ponies usually stand 10 to 12 hands high (40 to 48 inches (102 to 122 cm)), and are usually brown, black, and bay, but a few are gray. The Flores Pony is usually around 12.1 hh and the dominant colors are bay and chestnut.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Timor_Pony"
+  },
+  "welara": {
+    "name": "Welara",
+    "description": "Crosses began to be made between the Arabian horse and the Welsh Pony in Sussex, England the early 1900s, by Lady Wentworth of the Crabbet Arabian Stud. She began breeding Arabian stallions, including Skowronek (1909–1930), a Polish Arabian stud, to Welsh mares from North Wales, especially the Coed Coch stud farm, which she imported beginning in the early 1920s. Other breeders in England and North America soon followed suit, although at this time they were not focused on creating a new breed, and the cross became known as the Welara. In 1981, a breed registry, called the American Welara Pony Registry, was created in the US in order to develop and promote the breed. A studbook also began to be published, and pedigrees of Welaras were collected and preserved. Only Welsh and Arabian blood is allowed for purebreds, and all registered ponies must have at least 1/8 and no more than 7/8 blood from each breed. As of 2005, the registry claimed slightly over 1,500 ponies registered in North America, with around 100 new foals registered annually. Welara Sport Ponies may also be registered – these are ponies at least 50 percent Welara but with blood from other breeds, often the Thoroughbred. The association also registers pureblood Welsh and Arabian foundation stock.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Welara"
+  },
+
+  "welsh_pony_and_cob": {
+    "name": "Welsh pony and cob",
+    "description": "Evidence suggests that a native pony existed in Wales before 1600 BC. The original Welsh Mountain Pony is thought to have evolved from this prehistoric Celtic pony. Welsh ponies were primarily developed in Wales, and their ancestors existed in the British Isles prior to the arrival of the Roman Empire. Bands of ponies roamed in a semi-feral state, climbing mountains, leaping ravines, and running over rough moorland terrain. They developed into a hardy breed due to the harsh climate, limited shelter, and sparse food sources of their native country. At some point in their development, the Welsh breeds had some Arab blood added, although this did not take away the physical characteristics that make the breed unique.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Welsh_Pony_and_Cob"
+  },
+  "western_sudan_pony": {
+    "name": "Western sudan pony",
+    "description": "The Gharbaui is originally of Barb type. In the twentieth century a government programme of \"improvement\" was instituted at the stud farm of Nyala in South Darfur, and local mares were put to stallions of Arab and Thoroughbred stock, with consequent degradation of the local types; what the cross-bred animals gained in size they lost in hardiness and type. By the 1950s or 1960s few of the horses remained unaffected by this process. In 1994 the total number of the horses was reported to be 8000–10000. The conservation status of the breed was listed as \"not at risk\" by the FAO in 2007, and also by the DAD-IS database in 2023.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Western_Sudan_Pony"
   }
 }
