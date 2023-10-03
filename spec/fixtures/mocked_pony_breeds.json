@@ -1,0 +1,12 @@
+{
+  "american_shetland_pony": {
+    "name": "American Shetland Pony",
+    "description": "The American Shetland Pony is an American breed of pony.",
+    "wiki_url": "https://en.wikipedia.org/wiki/American_Shetland_Pony"
+  },
+  "american_walking_pony": {
+    "name": "American Walking Pony",
+    "description": "The American Walking Pony is a modern American breed of gaited riding pony.",
+    "wiki_url": "https://en.wikipedia.org/wiki/American_Walking_Pony"
+  }
+}
