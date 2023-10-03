@@ -1,6 +1,7 @@
-# PonyBreeds
+# PonyBreeds :horse:
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/pony_breeds`. To experiment with that code, run `bin/console` for an interactive prompt.
+The `pony_breeds` gem provides informations for 76 pony breeds. You can easily integrate the gem
+into your project and use the data coming from it.
 
 ## Installation
 
@@ -31,12 +32,19 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/napster235/pony_breeds. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/pony_breeds/blob/master/CODE_OF_CONDUCT.md).
+Contributions are welcomed to this project!
+If you have an idea for a new feature or find a bug, please open an issue in this repository.
+
+To contribute code to the project, follow these steps:
+
+    1. Fork this repo 
+    2. Create a new branch for your changes
+    3. Make the necessary changes and commit them to your branch
+    4. Push your branch to your forked repository
+    5. Open a pull request from your branch to this repository
+
+I review your changes and merge them into the project if they are approved.
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## Code of Conduct
-
-Everyone interacting in the PonyBreeds project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/pony_breeds/blob/master/CODE_OF_CONDUCT.md).
