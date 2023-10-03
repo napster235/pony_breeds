@@ -12,7 +12,7 @@ module Pony
       # @param key [Symbol] the symbolized key used to retrieve data for a specific pony
       #
       # @return [Hash] the hash containing the data for the pony
-      def get_pony_by_key(key)
+      def self.get_pony_by_key(key)
         read_ponies[key.to_sym]
       end
 
@@ -21,31 +21,31 @@ module Pony
       # @param name [String] the actual name of the pony
       #
       # @return [Hash] the hash containing the data for the pony
-      def get_pony_by_name(name)
+      def self.get_pony_by_name(name)
         key = name&.split&.join('_')&.downcase
-        get_pony_by_key(key.to_sym)
+        get_pony_by_key(key)
       end
 
       # Get data related to a pony by a random JSON key
       #
       # @return [Hash] the hash containing the data for the pony
-      def retrieve_random_pony
+      def self.retrieve_random_pony
         arr = []
 
         read_ponies.each_key { |pony_name| arr << pony_name }
         get_pony_by_key(arr.sample)
       end
 
-      private
-
       # Read and parse the JSON file
       #
       # @return [Hash] the data from the json file
-      def read_ponies
+      def self.read_ponies
         file_location = File.dirname(__FILE__)
         load_pony_breeds = File.join(file_location, 'pony_breeds.json')
-        JSON.parse(File.read(load_pony_breeds)).deep_symbolize_keys
+        JSON.parse(File.read(load_pony_breeds)).deep_symbolize_keys if File.exist?(load_pony_breeds)
       end
+
+      private_class_method :read_ponies
     end
   end
 end
