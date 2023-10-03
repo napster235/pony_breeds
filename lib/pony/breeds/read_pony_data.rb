@@ -2,6 +2,8 @@
 
 require 'json'
 require 'active_support/core_ext/hash/keys'
+require 'faraday'
+require 'breeds'
 
 module Pony
   module Breeds
@@ -22,6 +24,8 @@ module Pony
       #
       # @return [Hash] the hash containing the data for the pony
       def self.get_pony_by_name(name)
+        return unless name.is_a?(String)
+
         key = name&.split&.join('_')&.downcase
         get_pony_by_key(key)
       end
@@ -40,9 +44,8 @@ module Pony
       #
       # @return [Hash] the data from the json file
       def self.read_ponies
-        file_location = File.dirname(__FILE__)
-        load_pony_breeds = File.join(file_location, 'pony_breeds.json')
-        JSON.parse(File.read(load_pony_breeds)).deep_symbolize_keys if File.exist?(load_pony_breeds)
+        json_response = Faraday.get(AWS_BUCKET_URL)
+        JSON.parse(json_response.body).deep_symbolize_keys
       end
 
       private_class_method :read_ponies
