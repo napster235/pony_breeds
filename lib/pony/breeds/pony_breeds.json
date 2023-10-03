@@ -36,7 +36,7 @@
   },
   "batak_pony": {
     "name": "Batak pony",
-    "description": "The ponies are slender, but still strong and sturdy. In general, they are well-conformed, and most of their faults are partly to blame on the poor forage to which they have access. The only other breed of the country which is of better quality is the Sandalwood Pony.",
+    "description": "The Batak pony, also called the Deli pony, is a pony breed from Indonesia. Originating in Central Sumatra, it is thought to have descended from Mongolian Horse and Arabian blood. The ponies are slender, but still strong and sturdy. In general, they are well-conformed, and most of their faults are partly to blame on the poor forage to which they have access. The only other breed of the country which is of better quality is the Sandalwood Pony.",
     "wiki_url": "https://en.wikipedia.org/wiki/Batak_pony"
   },
   "bhirum_pony": {
@@ -74,9 +74,174 @@
     "description": "The Caspian is said to originate from the mountainous regions of northern Iran, which explains how the breed is tough, athletic, and nimble. Indeed, the oldest known specimen of a Caspian-like horse was found in 2011, in a cemetery dating back to 3400 B.C.E., in the archaeological dig at Gohar Tappeh in the province of Mazandaran in northern Iran, between the cities of Neka and Behshahr. Small horses were depicted in ancient art where they appeared in scenes pulling chariots.",
     "wiki_url": "https://en.wikipedia.org/wiki/Caspian_horse"
   },
-  "chincoteague_Pony": {
+  "chincoteague_pony": {
     "name": "Chincoteague Pony",
     "description": "The Chincoteague pony, also known as the Assateague horse, is a breed of horse that developed, and now lives, within a semi-feral or feral population on Assateague Island in the US states of Virginia and Maryland. The Chincoteague pony is one of the many breeds of feral horses in the United States. The breed was made famous by the Misty of Chincoteague novels, written by pony book author Marguerite Henry, and first published in 1947, and the pony Misty of Chincoteague.",
     "wiki_url": "https://en.wikipedia.org/wiki/Chincoteague_Pony"
+  },
+  "guoxia": {
+    "name": "Guoxia",
+    "description": "The Guoxia is breed of small horse from the counties of Debao, Jingxi and Tianyang in the prefecture of Baise, in the western part of Guangxi Zhuang Autonomous Region, in southern China. The name means \"under fruit tree horse\". It is not among the 51 horse breeds reported by China to the DAD-IS database of the FAO.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Guoxia"
+  },
+  "coffin_bay_pony": {
+    "name": "Coffin Bay pony",
+    "description": "Coffin Bay ponies have always been reared in a semi-wild and wild manner, which has made them healthy and hardy with strong bones and hooves. Ponies have a conformation which is very reminiscent of a Timor pony with good hindquarters and short legs. They have a kind and intelligent eye. There are two acceptable types of Coffin Bay ponies, the lighter saddle type and a slightly stronger type with clean legs, for both driving and riding.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Coffin_Bay_pony"
+  },
+  "connemara_pony": {
+    "name": "Connemara pony",
+    "description": "The original breed standard is set by the Connemara Pony Breeders' Society of Ireland, and also used by the British Connemara Pony Society. The adults are usually 128 to 148 cm (12.2 to 14.2 h; 50 to 58 in) in height, with a strong back, loins, and hindquarters, deep and broad through the ribs, and with a riding-type well laid-back shoulder and well-placed neck without undue crest, giving a good length of rein. The head should be of pony type, broad between the eyes, which should be large and appear kind, and with a deep but refined jaw and clearly defined cheekbone.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Connemara_pony"
+  },
+  "czechoslovakian_small_riding_pony": {
+    "name": "Czechoslovakian small riding pony",
+    "description": "Development of this small riding pony began in 1980 at the Agricultural University in Nitra. The initial breeding stock, about seventy mares, were kept at the Nová Bana farm. Broodmares were selected mostly of Arabian stock and also included Hanoverian, Slovak Warmblood and Hucul. A herd of twenty-seven mares averaging 14.2 hands were selected for the first crosses to a Welsh pony stallion, Branco. The first offspring, foaled in 1981, were kept outdoors on the rough terrain.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Czechoslovakian_Small_Riding_Pony"
+  },
+  "dales_pony": {
+    "name": "Dales pony",
+    "description": "The Dales Pony is a British breed of pony or small horse. It originated in, and is named for, the Dales of Yorkshire in northern England. It is one the nine native mountain and moorland pony breeds of the United Kingdom, and belongs to the broader Celtic group of ponies which extends from Portugal and northern Spain to Scandinavia. It was originally a working pony, and its history is closely linked to the history of lead mining in the Dales.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dales_pony"
+  },
+  "danish_sport_pony": {
+    "name": "Danish sport pony",
+    "description": "The Danish Sport Pony breed has only become a serious endeavor for Danish breeders within the past few decades because Icelandic and Norwegian horses were more popular as mounts. When pony riding rose in popularity, however, the demand for ponies increased. To cope with the demand, the Danish Sport Pony Breeding Association was formed in 1976. The organization was dedicated to creating a uniform breed of riding ponies, and this they achieved by crossing different breeds with the Danish Sport Pony.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Danish_Sport_Pony"
+  },
+  "dartmoor_pony": {
+    "name": "Dartmoor pony",
+    "description": "The bones of prehistoric horses have been found in chamber tombs dating from Vere Gordon Childe's period III - IV in southern Britain. This would date the bones at the transition from a hunter-gatherer society to an agricultural society (the Neolithic Revolution) around 3500 BC; the bones are probably from wild horses, but domestication may have begun by that date. Archeological investigation from the 1970s has shown that domesticated ponies were to be found on Dartmoor as early as 1500 BC. The first written record, dated to AD 1012, refers to wild horses at Ashburton, and early records from Dartmoor manors refer to ponies being branded and earmarked.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dartmoor_pony"
+  },
+  "dulmener": {
+    "name": "Dulmener",
+    "description": "The Dülmener or Dülmen is a German breed of small feral horse. It was formerly known as the Merfelderbrücher. A herd of approximately 300 head lives in feral conditions in an area of about 3.5 km2 in the Merfelder Bruch, near the town of Dülmen in the Kreis of Coesfeld in north-western Nordrhein-Westfalen, in north-western Germany. It is gravely endangered; in 2014 it was the \"endangered breed of the year\" of the Gesellschaft zur Erhaltung alter und gefährdeter Haustierrassen, and in 2021 was classified in category I, extrem gefährdet (extremely endangered) on the Rote Liste of that association.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dülmener"
+  },
+  "eriskay_Pony": {
+    "name": "Eriskay Pony",
+    "description": "The Eriskay Pony developed in the Isle of Eriskay in the Outer Hebrides, a group of western isles in Scotland. The origins of the breed are ancient, with roots in Celtic and Norse breeding. It is physically similar to drawings of ponies on ancient Pictish stones found in north and west Scotland. It is related to other northern breeds, including the Icelandic horse and the Faroe pony. The Eriskay takes its name from the island of Eriskay in the Outer Hebrides.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Eriskay_Pony"
+  },
+  "esperia_Pony": {
+    "name": "Esperia Pony",
+    "description": "The Esperia Pony (Italian: Pony dell'Esperia or Pony di Esperia) is a breed of pony originating in the area of the Aurunci Mountains and Ausoni Mountains near Esperia in the province of Frosinone, in the Lazio region of Italy. It is one of the fifteen indigenous horse \"breeds of limited distribution\" recognised by the AIA, the Italian breeders' association. It is the only Italian breed to be officially denominated a pony.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Esperia_Pony"
+  },
+  "exmoor_pony": {
+    "name": "Exmoor pony",
+    "description": "The Exmoor Pony is a British breed of pony or small horse. It is one of the mountain and moorland pony breeds native to the British Isles, and so falls within the larger Celtic group of European ponies. It originates on, and is named for, the Exmoor area of moorland in north-eastern Devon and western Somerset, in south-west England, and is well adapted to the climate conditions and poor grazing of the moor. Some still live there in a near-feral state, but most are in private ownership.Written records of ponies on Exmoor start with the Domesday Book in 1086. After centuries of being a “Royal Forest” (not an area of trees but a hunting ground), most of Exmoor was sold in 1818. Thirty ponies, identified as the original old type, were moved to neighbouring moorland; these were the foundation stock of the present-day breed.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Exmoor_pony"
+  },
+  "falabella": {
+    "name": "Falabella",
+    "description": "The ancestral stock of the horse of South America descended from horses brought to the western hemisphere by the Spanish of Andalusian and other Iberian bloodlines. In the southern part of the continent, significant numbers of these horses developed within geographically isolated conditions and by the mid-19th century, there were any number of smaller, inbred animals in the herds of Mapuche of southern Buenos Aires province in Olavarría, Argentina. The Falabella horse was originally developed in Argentina from local horses of Criollo stock, beginning in 1868 with the breeding program of Patrick Newtall.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Falabella"
+  },
+  "faroe_pony": {
+    "name": "Faroe pony",
+    "description": "The Faroese pony is mentioned in written sources from the 1600s. In the old days this pony breed was used to carry or haul heavy loads at farms and some sources also describes Faroese ponies trained to herd sheep (known as tøkuhestar). When it wasn't at work, it was released onto the mountains where it roamed freely. Today Faroese ponies are only kept by hobby breeders and it is mostly used as a riding horse for children.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Faroe_pony"
+  },
+  "fell_pony": {
+    "name": "Fell pony",
+    "description": "The Fell Pony shares its origins with the now-extinct Galloway pony, which was also the root of the Dales Pony. It is believed to have originated on the border between England and Scotland, quite probably antedating Roman times. The Fell Pony Society makes no claims about any input from imported Roman war stallions being crossed with these ponies. In the early stud books, 50% of ponies were brown in colour, though over the last few decades, black has become predominant, followed by brown, bay, and grey.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fell_pony"
+  },
+  "fjord_horse": {
+    "name": "Fjord horse",
+    "description": "The Fjord is one of the world's oldest and purest breeds. Horses were known to exist in Norway at the end of the last ice age. It is believed that its ancestors migrated to Norway and were domesticated over 4000 years ago. Archaeological excavations at Viking burial sites suggest that horses of this type have been selectively bred for at least 2000 years. The horses were used by the Vikings as war mounts, and have been used for hundreds of years as farm animals in western Norway.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fjord_horse"
+  },
+  "french_saddle_pony": {
+    "name": "French saddle pony",
+    "description": "The breeding program for the French Saddle Pony was initiated in 1969 by the Association Française du Poney de Croisement (French Association of Cross-bred Ponies), who wanted to create and promote a French Sport Pony, initially under the name Poney de Croisement (Cross-bred Pony). A stud book was created for the breed in 1972, and in 1991 the registry was closed to outside blood and the breed was renamed to Poney Français de Selle. The first ponies were created from a mixture of Arabian, New Forest, Welsh, Connemara and Thoroughbred blood. Later, Landais, Pottok, Merens and Basque blood was added.",
+    "wiki_url": "https://en.wikipedia.org/wiki/French_Saddle_Pony"
+  },
+  "galician_horse": {
+    "name": "Galician horse",
+    "description": "The most commonly accepted theory of the origin of the Gallego is that it, like other small breeds of the northern part of the Iberian peninsula, descends from small dark-coloured horses introduced by Celtic immigrants in the sixth century BC. In the Middle Ages these horses were rented or swapped for other horses at the border between Galicia and Castile, since the Galician was more sturdy and suitable for the rugged landscape of the country.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Galician_horse"
+  },
+  "garrano": {
+    "name": "Garrano",
+    "description": "The horse is believed to be an ancient breed, with Northern Iberian Paleolithic cave paintings depicting horses with similar profiles. The similarities between the breed and the depicted animals lead to the conclusion that the breed's appearance has remained stable. There is genetic evidence that the horse originates in Celtic regions, with additional research suggesting the later introduction of males for breeding from north Europe.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Garrano"
+  },
+  "gayoe": {
+    "name": "Gayoe",
+    "description": "The Gayoe, also known as the kuda-Gayo, is a pony from the island of Sumatra, found near Aceh. The name is derived from the Gayoe hills in the north of the island. The Gayoe is one of eight breeds native to Indonesia; the others are the Batak Pony, Deli pony, Bali Pony, Java Pony, Sumba and Sumbawa Pony (and closely related Sandalwood Pony) and Timor Pony. Gayoe ponies are generally solid-colored, usually a dark bay shade commonly called \"brown\". Adults are approximately 12.2 hands (114 cm) tall at the withers, and small-bodied.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Gayoe"
+  },
+  "german_riding_pony": {
+    "name": "German riding pony",
+    "description": "More than most pony breeds, the German Riding Pony has a phenotype very similar to that of a full-sized horse. The breeding of the Deutsche Reitpony began around 1965, by crossbreeding various English pony breeds, especially Welsh ponies, on Arabians, Anglo-Arabians and Thoroughbreds. The goal was to breed competition-quality ponies for children to ride in sport horse competitions, more easily controllable by children than the typical large Warmblood horses used by adults, while also keeping some Pony characteristics, including character, type and willingness to perform.",
+    "wiki_url": "https://en.wikipedia.org/wiki/German_Riding_Pony"
+  },
+  "german_classic_pony": {
+    "name": "German classic pony",
+    "description": "From about 1965 breeders in Germany began to selectively breed the traditional Shetland Pony with the taller and more athletic American Shetland Pony, with the aim of creating a more elegant pony better suited to use for riding and driving. The 1961 American champion stallion Jiggs was imported, together with several mares. In the 1990s the Shetland Pony Stud-Book Society declined to register any pony with American bloodlines; the name \"Deutsche Shetland Partbred\" was proposed for these ponies, but some breeders did not accept it. They formed their own breed society, and the Deutsches Classic-Pony was officially recognised as a German breed in 2001.",
+    "wiki_url": "https://en.wikipedia.org/wiki/German_Classic_Pony"
+  },
+  "gotland_russ": {
+    "name": "Gotland russ",
+    "description": "The Gotland Russ or Gotland Pony is an old Swedish breed of pony or small horse. Until the twentieth century it was found only on the small island of Gotland on the south-eastern coast of Sweden. It is now distributed through much of Sweden and is also present in some other European countries and in the United States. The Öland horse from the neighbouring island of Öland was a close relative of the Gotland, but became extinct in the early twentieth century.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Gotland_Russ"
+  },
+  "guizhou_pony": {
+    "name": "Guizhou pony",
+    "description": "The Guizhou pony is a small pony from the Guizhou province of China. As Guizhou is a mountainous province, agriculture was developed as early as 770 B.C. in the basin area of the province, and trade in horses and salt was of great importance. Some breeds from outside the country were introduced in the 1950s but did not bring beneficial results, so the Guizhou is still bred in pure form and is classified as a native breed.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Guizhou_pony"
+  },
+  "baise_horse": {
+    "name": "Baise horse",
+    "description": "The Baise horse (also known as the Guangxi) is a pony-sized horse breed native to the autonomous region of Guangxi, in southeastern China.[1] Like other Asian breeds (the Mongolian horse in particular), it thrives at high altitudes and roams freely when not working. Guangxi's mild climate has long favored horse breeding; bronze statues from the third to the first centuries BCE exist of horses very similar in conformation to the Baise.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Baise_horse"
+  },
+  "hackney_pony": {
+    "name": "Hackney pony",
+    "description": "The Hackney pony is a breed of pony closely related to the Hackney horse. Originally bred to pull carriages, they are used today primarily as show ponies. The breed does not have its own stud book, but shares one with the Hackney horse in all countries that have an official Hackney Stud Book Registry. The Hackney Pony was originally developed by Christopher Wilson. He used Sir George, a Hackney stallion foaled in 1866, to breed with Fell Pony mares, and then interbred the offspring to make a fixed type of pony. He desired to create not a miniaturized horse, but rather a true pony with such characteristics.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Hackney_pony"
+  },
+  "haflinger": {
+    "name": "Haflinger",
+    "description": "The Haflinger, also known as the Avelignese, is a breed of horse developed in Austria and northern Italy (namely Hafling in South Tyrol region) during the late 19th century. Haflinger horses are relatively small, are always chestnut with flaxen mane and tail, have distinctive gaits described as energetic but smooth, and are well-muscled yet elegant. The breed traces its ancestry to the Middle Ages; several theories for its origin exist. Haflingers, developed for use in mountainous terrain, are known for their hardiness. Their current conformation and appearance are the result of infusions of bloodlines from Arabian and various European breeds into the original native Tyrolean ponies.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Haflinger"
+  },
+  "highland_pony": {
+    "name": "Highland pony",
+    "description": "The Highland Pony is one of the three native breeds of the Scottish Highlands and Islands, the others are the Shetland Pony and the Eriskay Pony. Over many centuries, the breed has adapted to the variable and often severe climatic and environmental conditions of Scotland. The winter coat consists of a layer of strong, badger-like hair over a soft, dense undercoat, which enables this breed of pony to live out in all types of weather. This coat is shed in the spring to reveal a smooth summer coat. This essential hardiness is combined with a kindly nature and even temperament.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Highland_pony"
+  },
+  "dosanko": {
+    "name": "Dosanko",
+    "description": "The Dosanko (道産子), also known as the Hokkaido Horse (北海道馬, Hokkaidō uma) and Hokkaido Pony (北海ポニー, Hokkaidō ponī), is one of the eight extant indigenous horse breeds of Japan, and the only one of the eight not critically endangered. It originated on the island of Hokkaido, in the far north of the country, and is found particularly along the Pacific (eastern) coast of the island. The people of Hokkaido may be nicknamed \"Dosanko\" after the horses.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dosanko"
+  },
+  "hucul_pony": {
+    "name": "Hucul pony",
+    "description": "The Hucul or Carpathian is a pony or small horse breed originally from the Carpathian Mountains. It has a heavy build and possesses great endurance and hardiness. The breed is also referred to as the Carpathian pony, Huculska, Hutsul, Huțul, Huțan or Huzul. The breed gets its name from the Hutsul people, who live mostly in the Carpathians in Ukraine and in Romania, but also in an area in the East Carpathian Mountains north of the river Bistritz, officially named \"Huzelei\".",
+    "wiki_url": "https://en.wikipedia.org/wiki/Hucul_pony"
+  },
+  "icelandic_horse": {
+    "name": "Icelandic horse",
+    "description": "The Icelandic horse (Icelandic: íslenski hesturinn [ˈistlɛnscɪ ˈhɛstʏrɪn]) is a breed of horse developed in Iceland. Although the horses are small, at times pony-sized, most registries for the Icelandic refer to it as a horse. Icelandic horses are long-lived and hardy. In their native country they have few diseases; Icelandic law prevents horses from being imported into the country and exported animals are not allowed to return. In addition to the gaits of walk, trot, and canter/gallop typical of other horse breeds, many Icelandic horses can also do the tölt and the flying pace. The only breed of horse in Iceland, they are also popular internationally, and sizable populations exist in Europe and North America. The breed is still used for traditional sheepherding work in its native country, as well as for leisure, showing, and racing.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Icelandic_horse"
+  },
+  "java_pony": {
+    "name": "Java pony",
+    "description": "Java ponies belong to the group of Southeast Asian ponies. They are the largest Indonesian horse breed in size, and the least crossed with other breeds. The puny appearance of this pony is due to its often deficient diet. The body is narrow. The head is simple, unattractive, with long ears and expressive eyes. The neckline is short and very muscular. The withers are pronounced, the shoulders quite sloping, the chest deep and broad. They tend to have a long back and a slightly sloping rump with a high set tail, no doubt due to their Arabian ancestry. The legs of this breed are of a strange conformation, but surprisingly strong. They have thin bones and poorly developed joints, their feet are hard. The DAD-IS database records an average size of approximately 1.14 m for females and 1.20 m for males. CAB International (2016) indicates an average of 1.27 m. The largest may have reached about 13.5 hands (57 inches, 145 cm).",
+    "wiki_url": "https://en.wikipedia.org/wiki/Java_Pony"
+  },
+  "karelian_pony": {
+    "name": "Karelian pony",
+    "description": "The Karelian'(Russian: Карельская лошадь / Karel'skaya loshad) is a pony native to Karelia, a region of northern Europe between the Gulf of Finland and the White Sea. Approximately 1.40 m tall, with a large head and angular physique, this pony belongs to the North Russian equine group. Reputedly very hardy, it sometimes shows primitive markings on its coat. In the past, they were used in agriculture and for transport, especially pulling sledges. An integral part of the Karelian belief system, this pony is perceived as a wise animal with an excellent memory. The breed is now extinct,but there have been reports that there are at least 2 Karelian horses left, one of the Karelian breed, the other of \"Onego\" breed.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Karelian_pony"
+  },
+  "kerry_bog_pony": {
+    "name": "Kerry_Bog_Pony",
+    "description": "The Kerry Bog Pony is a mountain and moorland breed of pony that originated in Ireland. Possibly descended from the Irish Hobby horse, it originally lived a mainly feral existence in the peat bogs of what is now County Kerry in southwestern Ireland. Local inhabitants used the ponies as pack and cart horses for transporting peat and kelp to the villages. The breed developed physical characteristics including a low weight-to-height ratio and an unusual footfall pattern, which helped it move on soft ground such as peat bogs. The ponies were known for hardiness and an ability to survive in harsh conditions.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kerry_Bog_Pony"
   }
 }
