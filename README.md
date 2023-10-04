@@ -16,13 +16,37 @@ If bundler is not being used to manage dependencies, install the gem by executin
 ## Usage
 
 Get the pony data by the symbolized JSON key
-    `Pony::Breeds::ReadPonyData.new.get_pony_by_key(:symbolized_key_from_json)`
+    `Pony::Breeds::ReadPonyData.new.get_pony_by_key(:american_shetland_pony)`
+
+```ruby
+{
+  name: 'American Shetland Pony',
+  desiption: 'Short description about the pony',
+  wiki_url: 'https://en.wikipedia.org/wiki/American_Shetland_Pony'
+}
+```
     
 Get the pony data by the actual name of the pony
-    `Pony::Breeds::ReadPonyData.new.get_pony_by_name('Actual Pony Name')`
+    `Pony::Breeds::ReadPonyData.new.get_pony_by_name('Western sudan pony')`
+
+```ruby
+{
+  name: 'Western sudan pony',
+  desiption: 'Short description about the pony',
+  wiki_url: 'https://en.wikipedia.org/wiki/Western_Sudan_Pony"'
+}
+```
 
 Get a random pony data
     `Pony::Breeds::ReadPonyData.new.retrieve_random_pony`
+
+```ruby
+{
+  name: 'Timor pony',
+  desiption: 'Short description about the pony',
+  wiki_url: 'https://en.wikipedia.org/wiki/Timor_Pony'
+}
+```
 
 ## Development
 
