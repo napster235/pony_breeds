@@ -17,11 +17,7 @@ module Pony
       let(:mock_json) { 'spec/fixtures/mocked_pony_breeds.json' }
 
       before do
-        stub_request(:get, 'https://s3.eu-central-1.amazonaws.com/ponybreeds/pony_breeds.json')
-          .to_return(
-            status: 200,
-            body: File.read(mock_json)
-          )
+        allow(File).to receive(:read).and_return(File.read(mock_json))
       end
 
       describe '#get_pony_by_key' do

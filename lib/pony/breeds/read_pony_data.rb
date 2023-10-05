@@ -44,8 +44,9 @@ module Pony
       #
       # @return [Hash] the data from the json file
       def self.read_ponies
-        json_response = Faraday.get(AWS_BUCKET_URL)
-        JSON.parse(json_response.body).deep_symbolize_keys
+        file_location = File.dirname(__FILE__)
+        load_pony_breeds = File.join(file_location, 'pony_breeds.json')
+        JSON.parse(File.read(load_pony_breeds)).deep_symbolize_keys if File.exist?(load_pony_breeds)
       end
 
       private_class_method :read_ponies
