@@ -2,7 +2,6 @@
 
 require 'json'
 require 'active_support/core_ext/hash/keys'
-require 'faraday'
 require 'breeds'
 
 module Pony
