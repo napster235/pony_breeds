@@ -23,9 +23,9 @@ module Pony
       #
       # @return [Hash] the hash containing the data for the pony
       def self.get_pony_by_name(name)
-        return unless name.is_a?(String)
+        return unless name.is_a?(String) && !name.empty?
 
-        key = name&.split&.join('_')&.downcase
+        key = name.split.join('_').downcase
         get_pony_by_key(key)
       end
 
@@ -43,9 +43,9 @@ module Pony
       #
       # @return [Hash] the data from the json file
       def self.read_ponies
-        file_location = File.dirname(__FILE__)
-        load_pony_breeds = File.join(file_location, 'pony_breeds.json')
-        JSON.parse(File.read(load_pony_breeds)).deep_symbolize_keys if File.exist?(load_pony_breeds)
+        directory = File.dirname(__FILE__)
+        file_location = File.join(directory, 'pony_breeds.json')
+        JSON.parse(File.read(file_location)).deep_symbolize_keys if File.exist?(file_location)
       end
 
       private_class_method :read_ponies
