@@ -2,12 +2,11 @@
 
 require 'pony/breeds/read_pony_data'
 require 'json'
-require 'webmock'
 
 module Pony
   module Breeds
     RSpec.describe ReadPonyData do
-      let(:response_by_key) do
+      let(:response) do
         {
           name: 'American Shetland Pony',
           description: 'The American Shetland Pony is an American breed of pony.',
@@ -23,13 +22,13 @@ module Pony
       describe '#get_pony_by_key' do
         context 'when passing an existing key' do
           it 'returns the object from the json file' do
-            expect(Pony::Breeds::ReadPonyData.get_pony_by_key(:american_shetland_pony)).to eq(response_by_key)
+            expect(Pony::Breeds::ReadPonyData.get_pony_by_key(:american_shetland_pony)).to eq(response)
           end
         end
 
         context 'when passing an existing stringified key' do
           it 'returns the object from the json file' do
-            expect(Pony::Breeds::ReadPonyData.get_pony_by_key('american_shetland_pony')).to eq(response_by_key)
+            expect(Pony::Breeds::ReadPonyData.get_pony_by_key('american_shetland_pony')).to eq(response)
           end
         end
 
@@ -43,7 +42,7 @@ module Pony
       describe '#get_pony_by_name' do
         context 'when passing a valid name' do
           it 'returns the object from the json file' do
-            expect(Pony::Breeds::ReadPonyData.get_pony_by_name('American Shetland Pony')).to eq(response_by_key)
+            expect(Pony::Breeds::ReadPonyData.get_pony_by_name('American Shetland Pony')).to eq(response)
           end
         end
 
