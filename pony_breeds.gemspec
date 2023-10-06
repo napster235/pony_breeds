@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = 'A small little gem that offers the capability of reading pony breeds.'
   spec.homepage = 'https://github.com/napster235/pony_breeds'
   spec.license = 'MIT'
-  spec.required_ruby_version = '>= 2.6.0'
+  spec.required_ruby_version = '>= 3.0'
 
   spec.metadata['allowed_push_host'] = 'https://rubygems.org'
 
