@@ -13,7 +13,7 @@ module Pony
       #
       # @return [Hash] the hash containing the data for the pony
       def self.get_pony_by_key(key)
-        read_ponies[key.to_sym]
+        read_ponies[key&.to_sym]
       end
 
       # Get data related to a pony by the actual name of the pony
