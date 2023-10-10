@@ -21,7 +21,7 @@ Get the pony data by the symbolized JSON key
 ```ruby
 {
   name: 'American Shetland Pony',
-  desiption: 'Short description about the pony',
+  description: 'Short description about the pony',
   wiki_url: 'https://en.wikipedia.org/wiki/American_Shetland_Pony'
 }
 ```
@@ -32,7 +32,7 @@ Get the pony data by the actual name of the pony
 ```ruby
 {
   name: 'Western sudan pony',
-  desiption: 'Short description about the pony',
+  description: 'Short description about the pony',
   wiki_url: 'https://en.wikipedia.org/wiki/Western_Sudan_Pony"'
 }
 ```
@@ -43,7 +43,7 @@ Get a random pony data
 ```ruby
 {
   name: 'Timor pony',
-  desiption: 'Short description about the pony',
+  description: 'Short description about the pony',
   wiki_url: 'https://en.wikipedia.org/wiki/Timor_Pony'
 }
 ```
