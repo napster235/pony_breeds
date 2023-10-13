@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pony_breeds (0.1.4)
+    pony_breeds (0.1.5)
       rails (>= 5.2)
 
 GEM
